@@ -1,5 +1,3 @@
 - 👋 Hi, I’m Hasnain Ahmed Khan
 - 👀 I’m Full Stack Developer
-- 🌱 I’m currently learning IOS Development
-- 👨🏻‍💻 I’m providing my services as Web Developer to V Media (Pakistan based Company)
 - 📫 Email: info@hasnain.work, Phone +92 343-4276246
